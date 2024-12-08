@@ -1,0 +1,11 @@
+{
+  "valid_user": {
+    "username": "abc",
+    "email": "abc@abc.com",
+    "password": "abc123@",
+    "first_name": "abc",
+    "last_name": "abc"
+  }
+
+
+}
